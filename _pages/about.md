@@ -20,3 +20,4 @@ Hello! I'm a second year PhD student at Stanford University advised by Professor
 
 Previously, I've obtained a B.S. in EECS at UC Berkeley and conducted research in the [Robotic AI and Learning Lab](https://rail.eecs.berkeley.edu).
 
+For more information, check out my [CV](/assets/CV-19.pdf)!
